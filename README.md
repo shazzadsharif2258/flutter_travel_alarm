@@ -43,7 +43,7 @@ It includes onboarding screens, location access, and alarm/notification features
 ---
 
 ## ▶️ Demo Video
-Watch here: 
+Watch here: https://www.loom.com/share/a47541bb26254a44a07f1a9d0d9c0bcc?sid=09bade93-31ac-4bea-a6c7-5b230512df37
 
 ---
 
