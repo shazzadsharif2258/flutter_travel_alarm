@@ -1,16 +1,39 @@
-# assesment_flutter
+# Smart Travel Alarm ⏰
 
-A new Flutter project.
+A Flutter app built as part of the assessment task.  
+It includes onboarding screens, location access, and alarm/notification features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 3 onboarding screens with video backgrounds
+- Location permission & display
+- Set alarms with date + time picker
+- Notifications using `flutter_local_notifications`
+- Local storage with `get_storage`
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tools & Packages
+- Flutter (SDK 3.x)
+- [get](https://pub.dev/packages/get) – state management & routing
+- [get_storage](https://pub.dev/packages/get_storage) – local storage
+- [geolocator](https://pub.dev/packages/geolocator) – location services
+- [geocoding](https://pub.dev/packages/geocoding) – reverse geocoding
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) – notifications
+- [timezone](https://pub.dev/packages/timezone) – scheduling alarms
+- [video_player](https://pub.dev/packages/video_player) – onboarding videos
+- [chewie](https://pub.dev/packages/chewie) – better video control UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+*(Optional: Add emulator screenshots here)*
+
+---
+
+## ▶️ Demo Video
+Watch here: 
+
+---
+
