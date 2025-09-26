@@ -28,7 +28,17 @@ It includes onboarding screens, location access, and alarm/notification features
 ---
 
 ## 📱 Screenshots
-*(Optional: Add emulator screenshots here)*
+# My Flutter App
+
+### Onboarding
+![Onboarding](assets/onboarding.png)
+
+### Home Page
+![Home](assets/home.png)
+
+### Alarm Page
+![Alarm](assets/alarm.png)
+
 
 ---
 
